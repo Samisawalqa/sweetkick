@@ -1,0 +1,96 @@
+.buynow {
+
+    background-color: rgba(2, 29, 73, 255);
+    color: white;
+    text-align: center;
+    padding: 3px;
+    top: 0px;
+    position: absolute;
+    width: 100vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.div2 {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.shopnow {
+    background-color: rgba(255, 71, 0, 255);
+    border-radius: 4px;
+    margin: 5px;
+    margin-right: 130px;
+    color: white;
+    padding: 12px;
+    font-size: 17px;
+    box-shadow: 2px 2px black;
+    font-weight: bold;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.logo {
+    margin-left: 60px;
+    font-size: 40px;
+    font-weight: 800;
+    color: rgba(2, 29, 73, 255);
+}
+
+.div3 {
+    display: flex;
+    background-color: rgba(234, 234, 242, 255);
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    /* padding-top: 30px; */
+    padding-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(2, 29, 73, 255);
+    line-height: 60px;
+
+
+}
+
+.dsrp {
+    font-size: 30px;
+}
+
+.shopbody {
+    font-size: 18px;
+    margin-left: 50px;
+
+    IMG {
+        width: 90px;
+    }
+}
+
+.hands {
+    padding-right: 130px;
+    width: 40vw;
+}
+
+.start {
+    font-size: 70px;
+}
+
+.powder {
+    background-color: rgba(255, 71, 0, 255);
+    border-radius: 14px;
+    color: white;
+    font-size: 20px;
+    box-shadow: 2px 2px black;
+    font-weight: bold;
+    text-align: center;
+    width: 440px;
+    margin-left: 18px;
+    height: 60px;
+}
+
+.free {
+    font-size: 18px;
+    margin-right: 280px;
+    text-align: center;
+    line-height: 40px;
+}
